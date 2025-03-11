@@ -1,1 +1,1 @@
-# counter
+A simple counter app from Scrimba that allows youto keep count of certain things, for example, the number of people that enters into a bus or the number of people tha tenters into your class or office
